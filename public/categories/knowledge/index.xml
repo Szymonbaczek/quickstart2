@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Knowledge on Simon The Rising Front-End Star</title>
+    <link>https://simondev.win/categories/knowledge/</link>
+    <description>Recent content in Knowledge on Simon The Rising Front-End Star</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://simondev.win/categories/knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 25 - CI/CD</title>
+      <link>https://simondev.win/posts/025/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/025/</guid>
+      <description>A week off I was absent for a week, due to my position in life. I am in the last year of high school and I am preparing for The Final Exam, so I don&amp;rsquo;t have much time nowadays. I&amp;rsquo;m explaining myself here only in front of&amp;hellip; myself! I feel bad when I can&amp;rsquo;t pay that much atention to study programming as I should, so I&amp;rsquo;m about to changing that. Work daily Simon, small steps - but daily.</description>
+    </item>
+    
+    <item>
+      <title>Day 24 - Power lays in cooperation</title>
+      <link>https://simondev.win/posts/024/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/024/</guid>
+      <description>Looking for a solution to a problem with my Mentor We connected through discord, the bot no longer reminds us of meetings because flexibility works better than top-down fixed days and times for meetings.
+I introduced my mentor to my blog and told him how I created it. I also talked about the problems I encountered along the way and the ones I am currently facing.
+Another domain problem needed to be fix When you typed in the name of my new domain simondev.</description>
+    </item>
+    
+    <item>
+      <title>Day 20 - Workflows, submodules and monorepo</title>
+      <link>https://simondev.win/posts/020/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/020/</guid>
+      <description>I A Git workflow is a recipe or recommendation for how to use Git to accomplish work in a consistent and productive manner.
+Workflows are designed to be guidelines rather than concrete rules.
+The Centralized Workflow uses a central repository to serve as the single point-of-entry for all changes to the project. This workflow doesn’t require any other branches besides &amp;ldquo;main&amp;rdquo;.
+The core idea behind The Feature Branch Workflow is that all feature development should take place in a dedicated branch instead of the main branch.</description>
+    </item>
+    
+    <item>
+      <title>Day 19 - Links to sources of wisdom</title>
+      <link>https://simondev.win/posts/019/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/019/</guid>
+      <description>https://www.atlassian.com/git/tutorials/comparing-workflows
+https://git-scm.com/book/en/v2/Git-Tools-Submodules
+https://www.atlassian.com/git/tutorials/monorepos
+https://roadmap.sh/frontend
+https://roadmap.sh/</description>
+    </item>
+    
+    <item>
+      <title>Day 18 - A bit of web-design knowledge</title>
+      <link>https://simondev.win/posts/018/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/018/</guid>
+      <description>How web developers deal with unexpected long texts in buttons[because of cms source of content]? They deal with it by adding some padding. (ProudEminem.png)
+What pug is and what can provide for me in this task [don&amp;rsquo;t have to repeat changes in each file if I want to change something in the website layout] (https://github.com/pugjs/pug ) Pug is a kind of extension for HTML that makes our work easier.
+We can see how it works in this site (Syntax part): https://github.</description>
+    </item>
+    
+    <item>
+      <title>Day 4 - Web design basics</title>
+      <link>https://simondev.win/posts/004/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/004/</guid>
+      <description>Difference between mobile first and desktop first design It&amp;rsquo;s all about priority.
+You have the oportunnity to choose what&amp;rsquo;s more important for your clients / users of your website.
+In desktop first design we focus on making good-looking website on desktop devices and then we think how to convert it or how to prepare that site for mobile screens.
+In mobile first design, we do straight opposite. We start with building functional and pretty mobile website and then we think what to add, that we use whole desktop potential.</description>
+    </item>
+    
+  </channel>
+</rss>

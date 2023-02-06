@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>concepts on Simon The Rising Front-End Star</title>
+    <link>https://simondev.win/tags/concepts/</link>
+    <description>Recent content in concepts on Simon The Rising Front-End Star</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://simondev.win/tags/concepts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 25 - CI/CD</title>
+      <link>https://simondev.win/posts/025/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/025/</guid>
+      <description>A week off I was absent for a week, due to my position in life. I am in the last year of high school and I am preparing for The Final Exam, so I don&amp;rsquo;t have much time nowadays. I&amp;rsquo;m explaining myself here only in front of&amp;hellip; myself! I feel bad when I can&amp;rsquo;t pay that much atention to study programming as I should, so I&amp;rsquo;m about to changing that. Work daily Simon, small steps - but daily.</description>
+    </item>
+    
+  </channel>
+</rss>

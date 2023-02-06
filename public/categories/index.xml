@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Simon The Rising Front-End Star</title>
+    <link>https://simondev.win/categories/</link>
+    <description>Recent content in Categories on Simon The Rising Front-End Star</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://simondev.win/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knowledge</title>
+      <link>https://simondev.win/categories/knowledge/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/categories/knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://simondev.win/categories/website/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/categories/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organization</title>
+      <link>https://simondev.win/categories/organization/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/categories/organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://simondev.win/categories/programming/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markup Languages</title>
+      <link>https://simondev.win/categories/markup-languages/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/categories/markup-languages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

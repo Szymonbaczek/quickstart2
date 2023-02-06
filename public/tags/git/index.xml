@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>git on Simon The Rising Front-End Star</title>
+    <link>https://simondev.win/tags/git/</link>
+    <description>Recent content in git on Simon The Rising Front-End Star</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simondev.win/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 19 - Links to sources of wisdom</title>
+      <link>https://simondev.win/posts/019/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/019/</guid>
+      <description>https://www.atlassian.com/git/tutorials/comparing-workflows
+https://git-scm.com/book/en/v2/Git-Tools-Submodules
+https://www.atlassian.com/git/tutorials/monorepos
+https://roadmap.sh/frontend
+https://roadmap.sh/</description>
+    </item>
+    
+    <item>
+      <title>Day 15 - Answers to Mentor&#39;s questions</title>
+      <link>https://simondev.win/posts/015/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/015/</guid>
+      <description>Ultra gitbranch note PART 2/2 Remote Names and commands (commands are in italics) git clone - creates local copy of remote repository
+origin - remote name for branch. If you want to update remote branch to the newest commit, first you have to upload your local branch.
+git fetch - synchronizes the local repository with the remote one
+git pull - git fetch &amp;amp; git merge in one. Pulling remote work to our local.</description>
+    </item>
+    
+    <item>
+      <title>Day 14 - Great git note</title>
+      <link>https://simondev.win/posts/014/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/014/</guid>
+      <description>Ultra gitbranch note PART 1/2 Local What&amp;rsquo;s GIT? It&amp;rsquo;s the most popular version control system (and I finally understand what it means).
+What&amp;rsquo;s GIT for? It records changes made to our code over time in a special data base - REPOSITORY. It also give as an opportunity to work with someone else on the same project in the same time.
+In favour of that we can look at our project history and see who and when made which changes.</description>
+    </item>
+    
+    <item>
+      <title>Day 9 - Styling forms</title>
+      <link>https://simondev.win/posts/009/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/009/</guid>
+      <description>HTML What can I say? Just look here:
+Everything I did today is in here
+CSS Simple form. Files with that included.
+Everything I did today is in here
+GIT git cherry-pick (commit) (commit) (&amp;hellip;) - creates copies of chosen commits (?)
+this site showed me some interactive stuff so all those commands are for nothing if I dispose interactive panel (?)</description>
+    </item>
+    
+    <item>
+      <title>Day 8 - Lists</title>
+      <link>https://simondev.win/posts/008/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/008/</guid>
+      <description>HTML So much work done today. I&amp;rsquo;m tired and I don&amp;rsquo;t have energy to write anythink here. Just look at my additional files with the same date.
+Everything I did today in HTML is in here and here
+CSS Everything in additional files.
+Everything I did today in CSS is in here and here
+I fixed problem with Java Script by replacing (.nav) with (#nav), because I made div, not a class.</description>
+    </item>
+    
+    <item>
+      <title>Day 7 - Divs, classes &amp; git</title>
+      <link>https://simondev.win/posts/007/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/007/</guid>
+      <description>HTML So many problem and that&amp;rsquo;s just day 7th. Everything I did today is in here and here
+CSS Everything I did today is in here and here
+GIT git checkout (#) (for example C4) - disconnects HEAD from the branch (?)
+git checkout HEAD^ - moves HEAD to acctual parent of chosen commit</description>
+    </item>
+    
+    <item>
+      <title>Day 6 - Web developing courses begin</title>
+      <link>https://simondev.win/posts/006/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/006/</guid>
+      <description>HTML Everythink in additional files here and here
+All of that is based on Mirosław Zelent - Pasja Informatyki YouTube channel. He&amp;rsquo;s a fameous programming teacher in Poland.
+Div = divide
+GIT git merge (1); (2) - connects commit with two parents above
+git rebase (2) - creates copy of actual commit under the second one
+I need to talk to my mentor about GIT, because I want to understand why am I doing this :)</description>
+    </item>
+    
+    <item>
+      <title>Day 5 - Web technologies &amp; git</title>
+      <link>https://simondev.win/posts/005/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/005/</guid>
+      <description>HTML Web technologies:
+HTML - here we encode content of a website. Text, images, buttons etc. (Content)
+CSS - here we can stylish the content that we put earlier in HTML. (Appearance)
+PHP - is responsible for mechanical operation of website.
+JavaScript - with that you can add good-looking extensions.
+SQL - cooperation with data base, making changes in it. SQL is uses inside PHP.
+Frameworks - you can build advanced structure of your website.</description>
+    </item>
+    
+  </channel>
+</rss>

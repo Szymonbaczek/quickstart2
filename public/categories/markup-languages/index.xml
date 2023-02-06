@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Markup Languages on Simon The Rising Front-End Star</title>
+    <link>https://simondev.win/categories/markup-languages/</link>
+    <description>Recent content in Markup Languages on Simon The Rising Front-End Star</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simondev.win/categories/markup-languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 2 - How to Markdown</title>
+      <link>https://simondev.win/posts/002/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/002/</guid>
+      <description>Getting acquainted with MARKDOWN. I learned that Markdown is a markup language. That is, with it I can write and format text using specific characters to which specific functions are assigned.
+The biggest advantage of Markdown is its versatility. Thanks to its simple notation, we are able to reproduce its contents in any text file and it is very readable in its original notation.
+As I read on one English-language website, thanks to its simplicity, Markdown is Future proof.</description>
+    </item>
+    
+  </channel>
+</rss>

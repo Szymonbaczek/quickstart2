@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>discord bot on Simon The Rising Front-End Star</title>
+    <link>https://simondev.win/tags/discord-bot/</link>
+    <description>Recent content in discord bot on Simon The Rising Front-End Star</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simondev.win/tags/discord-bot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 3 - A Helpful Bot</title>
+      <link>https://simondev.win/posts/003/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/003/</guid>
+      <description>Making Discord Bot Today I had to create Bot for my Discord server. His responsibility should be reminding every member of channel #general about meeting.
+It supposed to be done on Wednesday and Saturday morning and one hour before meeting which is at 8pm.
+At first I took word ,,create&amp;quot; too serious and I started to learn how to make your own Bot and how to program it in JavaScript or Python.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on Simon The Rising Front-End Star</title>
+    <link>https://simondev.win/tags/blog/</link>
+    <description>Recent content in blog on Simon The Rising Front-End Star</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://simondev.win/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 24 - Power lays in cooperation</title>
+      <link>https://simondev.win/posts/024/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/024/</guid>
+      <description>Looking for a solution to a problem with my Mentor We connected through discord, the bot no longer reminds us of meetings because flexibility works better than top-down fixed days and times for meetings.
+I introduced my mentor to my blog and told him how I created it. I also talked about the problems I encountered along the way and the ones I am currently facing.
+Another domain problem needed to be fix When you typed in the name of my new domain simondev.</description>
+    </item>
+    
+    <item>
+      <title>Day 23 - The Domain, changing DNS, experiements with site layouts</title>
+      <link>https://simondev.win/posts/023/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/023/</guid>
+      <description>Purchase of a domain My blog is put up using Hugo&amp;rsquo;s static page generator and using Netlify, which hosts this site.
+I had to buy a domain because the one from Netlify was a bunch of random words and numbers.
+A mentor recommended porkbun.com to me and suggested .dev as a top-level domain. It would be suitable for me, as I want to become a web developer. However, it was a bit too expensive for me, since I live in Poland and dollars don&amp;rsquo;t convert with my currency very optimistically :D</description>
+    </item>
+    
+    <item>
+      <title>Day 22 - A summary of my learning</title>
+      <link>https://simondev.win/posts/022/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/022/</guid>
+      <description>Summary of previous months and some conclusions So I&amp;rsquo;ve noticed how big mistake I&amp;rsquo;ve done.
+I didn&amp;rsquo;t make notes about anything I&amp;rsquo;ve done and learned during the last dozens of days.
+I learned how to deploy a site (like this blog) using static site generator like Hugo. I&amp;rsquo;ve learned how it works and how can I menega this kind of sites.
+I&amp;rsquo;ve done some exercises that kept me in ,,programming&amp;quot; form.</description>
+    </item>
+    
+  </channel>
+</rss>

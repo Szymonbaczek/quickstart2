@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Organization on Simon The Rising Front-End Star</title>
+    <link>https://simondev.win/categories/organization/</link>
+    <description>Recent content in Organization on Simon The Rising Front-End Star</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://simondev.win/categories/organization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 22 - A summary of my learning</title>
+      <link>https://simondev.win/posts/022/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/022/</guid>
+      <description>Summary of previous months and some conclusions So I&amp;rsquo;ve noticed how big mistake I&amp;rsquo;ve done.
+I didn&amp;rsquo;t make notes about anything I&amp;rsquo;ve done and learned during the last dozens of days.
+I learned how to deploy a site (like this blog) using static site generator like Hugo. I&amp;rsquo;ve learned how it works and how can I menega this kind of sites.
+I&amp;rsquo;ve done some exercises that kept me in ,,programming&amp;quot; form.</description>
+    </item>
+    
+    <item>
+      <title>Day 3 - A Helpful Bot</title>
+      <link>https://simondev.win/posts/003/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/003/</guid>
+      <description>Making Discord Bot Today I had to create Bot for my Discord server. His responsibility should be reminding every member of channel #general about meeting.
+It supposed to be done on Wednesday and Saturday morning and one hour before meeting which is at 8pm.
+At first I took word ,,create&amp;quot; too serious and I started to learn how to make your own Bot and how to program it in JavaScript or Python.</description>
+    </item>
+    
+    <item>
+      <title>Day 1 - Start of the journey</title>
+      <link>https://simondev.win/posts/001/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/001/</guid>
+      <description>First meeting with my new (and first) programming mentor Mateusz Grochowski.
+Creating an honor agreement between the two of us about the work and responsibilities we will have in my programming journey.
+Creating a channel on Discord and a planning to make a bot that reminds us about meetings.</description>
+    </item>
+    
+  </channel>
+</rss>

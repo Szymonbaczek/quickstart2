@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>docs on Simon The Rising Front-End Star</title>
+    <link>https://simondev.win/tags/docs/</link>
+    <description>Recent content in docs on Simon The Rising Front-End Star</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simondev.win/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1 - Start of the journey</title>
+      <link>https://simondev.win/posts/001/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simondev.win/posts/001/</guid>
+      <description>First meeting with my new (and first) programming mentor Mateusz Grochowski.
+Creating an honor agreement between the two of us about the work and responsibilities we will have in my programming journey.
+Creating a channel on Discord and a planning to make a bot that reminds us about meetings.</description>
+    </item>
+    
+  </channel>
+</rss>
